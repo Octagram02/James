@@ -1339,4 +1339,12 @@ margin-right: 15px;
         display:none;
     }
 }
+@media(max-width:469px){
+    .parallax{
+        display:none;
+    }
+    .dark .parallax{
+       display:none;
+    }
+}
 
