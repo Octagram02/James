@@ -1338,12 +1338,7 @@ margin-right: 15px;
     .parallax{
         display:none;
     }
-}
-@media(max-width:469px){
-    .parallax{
-        display:none;
-    }
-    .dark .parallax{
+      .dark .parallax{
        display:none;
     }
 }
